@@ -1,0 +1,20 @@
+.details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.detail--column {
+    display: flex;
+    flex-basis: auto;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+    justify-items: center;
+
+}
+
+.assignments {
+    padding: 1rem 5rem;
+}
+
